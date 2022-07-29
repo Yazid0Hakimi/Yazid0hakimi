@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🎓 Computer Engineering Student Passionate in web developing and Data Science, enjoy learning new things.
 <!--
 **Yazid0Hakimi/Yazid0hakimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
