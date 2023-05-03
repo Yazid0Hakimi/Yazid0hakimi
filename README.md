@@ -26,6 +26,9 @@ I am currently studying and eager to explore various opportunities and gain prac
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   </a>
+    <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
+  <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" width="60" height="60" />
+</a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
